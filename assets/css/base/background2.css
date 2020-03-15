@@ -1,0 +1,10 @@
+body {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background: url(https://www.keithjamesdesigns.com/wp-content/uploads/2014/11/header-bg-lg.jpg) no-repeat fixed;
+  background-size: cover;
+  background-position: 50%;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}

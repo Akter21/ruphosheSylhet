@@ -1,0 +1,10 @@
+body {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background: url(http://www.photos-public-domain.com/wp-content/uploads/2012/08/navy-blue-micro-fiber-cloth-fabric-texture.jpg) no-repeat fixed;
+  background-size: cover;
+  background-position: 50%;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
